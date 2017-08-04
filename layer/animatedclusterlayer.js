@@ -14,7 +14,7 @@
 * @constructor AnimatedCluster
 * @extends {ol.layer.Vector}
 * @param {olx.layer.AnimatedClusterOptions=} options
-* @todo 
+* @todo check and test this class with openlayers 
 */
 ol.layer.AnimatedCluster = function(opt_options)
 {	var options = opt_options || {};
